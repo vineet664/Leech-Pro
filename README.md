@@ -1,12 +1,14 @@
-[![GreyMatter's Bot LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)](https://t.me/+396rgEDG8BowMWY5)
+[![vineet's Bot dl V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)](https://t.me/mr_modd)
 
-## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+## 👉 [Orginal Repository](https://github.com/vineet664
+/
+Leech-Pro)
 
-[![GreyMatter's Support](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)](https://t.me/greymatters_bots_discussion)
+[![vineet's Support](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)](https://t.me/mr_modd)
 
-## **Don't Kill Heroku please ☹️**
+## **Don't Kill Heroku plz ☹️**
 
-[![GreyMatter's Bot](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/greymatter_bots)
+[![GreyMatter's Bot](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/mr_modd)
 
 
 
@@ -29,7 +31,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
+[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/mr_modd) 👍
 
 ##### Mandatory Variables
 
@@ -44,7 +46,7 @@
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/mr_modd)
 
 ##### Optional Configuration Variables
 
@@ -150,25 +152,25 @@
 ➢ `/status`
 
 
-[![GreyMatter](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/GreyMatter_bots)
+[![vineet](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/mr_modd)
 
-🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
+📀 <b> Currently Support HEORKO . But not permanent 🙄☹️🤧 Coz Heroku won't allow Tor dl Things</b>.
 
 
 ## [Deploy To Heroku](https://heroku.com/deploy/)
 
-If Deploy Button is not working watch the Tutorial Videos.
+If Deploy Button is never working watch the Tutorial Videos.
 
-### [Tutorial Video 1](https://youtu.be/exbZkRHT8LU)
-### [Tutorial Video 2](https://youtu.be/he4Wz7Rdb80)
-### [Tutorial Video with Mirror-Leech](https://youtu.be/aqdx3-785BI)
+### [Tutorial Video 1](https://youtu.be/vCWr2q5ivNw)
+### [Tutorial Video 2](https://youtu.be/vCWr2q5ivNw)
+### [Tutorial Video with Mirror-pro](https://youtu.be/vCWr2q5ivNw)
    
 ## CREDITS
 
- - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
- - [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
+ - [Vineet](https://github.com/vineet664/Leech-Pro) 😬
+ - [vineet](https://github.com/vineet664/Leech-Pro) for his wonderful code😚
  - [Rclone Team](https://rclone.org) for theirs awesome tool☁️
- - [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+ - [vineet](https://telegram.dog/mr_modd) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
  - [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
- - [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
- - [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
+ - [@vineet](https://telegram.dog/mr_modd) for his [tor.ajee.sh](https://tor.ajee.sh)
+ - [@vineet](https://telegram.dog/mr_modd), @mr_modd, [@vineet](https://telegram.dog/mr_modd) for their TOR groups
